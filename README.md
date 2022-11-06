@@ -14,4 +14,4 @@ Foram simulados likes e dislikes, tentativa de double spend, bem como trolls e s
         
 d. Inclua uma conclusão sobre a simulação.
     
-Conclui-se que a simulação conseguiu capturar e demonstrar de forma exitosa como um fórum público do Freechains sobre criptomoedas se comportaria após 90 dias de utilização. A reputação de cada autor é apresentada ao final da simulação.
+Conclui-se que a simulação conseguiu capturar e demonstrar de forma exitosa como um fórum público do Freechains sobre criptomoedas se comportaria após 90 dias de utilização. A reputação de cada autor é apresentada ao final da simulação. A simulação já está considerando a aplicação final da disciplina.
